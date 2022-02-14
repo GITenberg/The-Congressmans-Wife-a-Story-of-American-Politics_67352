@@ -1,0 +1,36 @@
+_repo: The-Congressmans-Wife-a-Story-of-American-Politics_67352
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kirby, Rollin G.
+    gutenberg_agent_id: '54222'
+    url: http://www.gutenberg.org/2009/agents/54222
+creator:
+  author:
+    agent_name: Barry, John D. (John Daniel)
+    alias: Barry, John Daniel
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '1117'
+    url: http://www.gutenberg.org/2009/agents/1117
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67352'
+language: en
+pgterms:marc904: https://archive.org/details/congressmanswife00barr/mode/2up
+pgterms:marc905: 20200430165207barry
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Carlos Colon, the University of North Carolina at Chapel Hill and
+  the Online Distributed Proofreading Team at https://www.pgdp.net (This file was
+  produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :The Smart Set Publishing Co.,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Congressman’s Wife, a Story of American Politics
+url: http://www.gutenberg.org/ebooks/67352
