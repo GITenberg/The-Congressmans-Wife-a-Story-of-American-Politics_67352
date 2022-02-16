@@ -5,6 +5,9 @@ contributor:
     agent_name: Kirby, Rollin G.
     gutenberg_agent_id: '54222'
     url: http://www.gutenberg.org/2009/agents/54222
+covers:
+- cover_type: archival
+  image_path: 67352-h/images/cover.jpg
 creator:
   author:
     agent_name: Barry, John D. (John Daniel)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '1117'
     url: http://www.gutenberg.org/2009/agents/1117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67352#The-Congressmans-Wife-a-Story-of-American-Politics
 gutenberg_issued: '2022-02-07'
 identifiers:
   gutenberg: '67352'
